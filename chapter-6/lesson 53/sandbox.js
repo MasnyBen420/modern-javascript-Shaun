@@ -21,3 +21,4 @@ item.addEventListener('click', e =>{
     target.style.textDecoration ='line-through';
 })
 });
+
