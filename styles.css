@@ -18,4 +18,5 @@ border: 1px dotted crimson;
 }
 .article-elements{
     color: seagreen;
+    text-decoration: line-through;
 }
